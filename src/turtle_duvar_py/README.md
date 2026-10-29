@@ -8,7 +8,7 @@
 | **Kurum / Bölüm** | Konya Teknik Üniversitesi, Yazılım Mühendisliği |
 | **Paket adı** | `turtle_duvar_py` |
 | **Yazılım platformu** | ROS 2 Humble Hawksbill, Python (`rclpy`) |
-| **Depo** | https://github.com/kdrynrmtn/turtle_duvar_py |
+| **Depo** | https://github.com/kdrynrmtn/duvardan_kacan_kaplumbaga |
 | **Tarih** | Ekim 2026 |
 
 ---
